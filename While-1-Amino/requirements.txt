@@ -1,0 +1,15 @@
+streamlit>=1.32.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+biopython>=1.83
+py3Dmol>=2.0.0
+plotly>=5.18.0
+matplotlib>=3.8.0
+stringdb>=0.1.4
+pyuniprot==0.0.10
+altair>=5.0.0
+stmol
+ipython_genutils
+ipywidgets
+google-generativeai>=0.3.0
